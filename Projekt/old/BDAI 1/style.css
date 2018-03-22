@@ -1,0 +1,13 @@
+div {
+	text-align: center;
+	
+}
+
+table, th, td {
+   border: 1px solid black;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}

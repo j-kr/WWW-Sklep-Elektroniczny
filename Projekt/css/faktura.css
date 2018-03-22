@@ -1,0 +1,72 @@
+div#faktura {
+	margin: 20 auto;
+	height: 1123px;
+	width: 794px;
+	border: 1px solid black
+}
+
+h2 {
+	text-align: right;
+	padding-top: 40px;
+	padding-right: 40px;
+	padding-bottom: 5px;
+}
+
+h4 {
+	text-align: right;
+	color: red;
+	padding-right: 40px;
+}
+
+p#daty {
+	
+	text-align: right;
+	padding-right: 40px;
+}
+
+p#razem {
+	font-size: 150%;
+	text-align: right;
+	padding-right: 40px;
+}
+
+div#sprzedawca {
+	float: left;
+	width: 40%;
+	padding-left: 40px;
+}
+
+div#nabywca {
+	float: left;
+	width: 40%;
+	padding-left: 80px;
+}
+
+div#podpis_lewy {
+	float: left;
+	width: 40%;
+	padding-left: 60px;
+}
+
+div#podpis_prawy {
+	float: left;
+	width: 40%;
+	padding-left: 40px;
+}
+
+table{
+	border-collapse: collapse;
+	border: 2px solid black;
+	margin: 80px;
+}
+
+th, tr{
+	padding: 4px;
+	border: 1px solid black;
+}
+
+td{
+	padding: 4px;
+	border: 1px solid black;
+	text-align: right;
+}
